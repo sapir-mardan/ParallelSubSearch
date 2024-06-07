@@ -57,6 +57,3 @@ from longest_sub import longest_contiguous_version1
 sequence = Seq("AACCGGTTAACCGGTT")
 result = longest_contiguous_version1(sequence)
 print(result)
-
-
-
