@@ -19,7 +19,7 @@ The project consists of two main parts:
 
 - Clone the repository to your local machine:
   ```bash
-  git clone https://github.com/yourusername/ParallelSubSearch.git
+  git clone https://github.com/sapirmardan/ParallelSubSearch.git
 
 - Install the required packages:
   ```bash
